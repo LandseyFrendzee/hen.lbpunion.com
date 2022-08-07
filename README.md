@@ -5,4 +5,4 @@ A hub for everything HEN. Basically a mirror of https://ps3addict.github.io/.
 
 [HEN Installer](http://hen.lbpunion.com/installer)
 
-[HEN Alternate Installer](http://hen.lbpunion.com/alternate)
+[HEN Alternate Installer](http://hen.lbpunion.com/alternate-installer)
